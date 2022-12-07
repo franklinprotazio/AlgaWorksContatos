@@ -14,8 +14,7 @@ public class Contato {
 		this.id = id;
 		this.nome = nome;
 		this.telefone = telefone;
-	}
-	
+	}	
 	
 	public boolean isNovo() {
 		return id == null;
